@@ -1,6 +1,6 @@
 # bmicalculator
 
-A new Flutter application.
+A new Flutter application, that I built while learning Flutter and customizing widgets.
 
 ## Getting Started
 
